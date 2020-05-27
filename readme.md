@@ -10,3 +10,10 @@ Alpha666 writeups for picoCTF 2019
 * [Binary Exploitation](./pwn/README.md)
 * [Reverse Engineering](./rev/README.md)
 * [Web Exploitation](./web/README.md)
+
+
+## Tools
+
+* Arch Linux
+* Cyber Chef
+* Exiftool
