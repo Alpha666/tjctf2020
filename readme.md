@@ -21,4 +21,4 @@ Alpha666 writeups for TJCTF 2020
 * Sympy
 
 ## Rank
-! [rank](./image/ranking.png)
+![rank](./image/ranking.png)
