@@ -17,3 +17,5 @@ Alpha666 writeups for picoCTF 2019
 * Arch Linux
 * Cyber Chef
 * Exiftool
+* Rsactftool
+* Sympy
