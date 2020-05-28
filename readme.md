@@ -19,3 +19,6 @@ Alpha666 writeups for picoCTF 2019
 * Exiftool
 * Rsactftool
 * Sympy
+
+## Rank
+! [rank](./image/ranking.png)
