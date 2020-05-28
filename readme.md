@@ -1,6 +1,6 @@
 # TJCTF-2020
 
-Alpha666 writeups for picoCTF 2019
+Alpha666 writeups for TJCTF 2020
 
 ## Table of Contents
 
